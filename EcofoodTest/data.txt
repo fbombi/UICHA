@@ -1,0 +1,23 @@
+URL~http://ecofoodmarket.herokuapp.com/
+nameR~aj2
+lastnameR~ia
+usernameR~co212
+emailR~ajiaco@email.com
+passR~1234
+pass2R~1234
+nameL~f
+passL~f
+nameW~a
+passW~a2
+country~Colombia
+dpto~Bogotá D.C
+c1~Fabio
+c2~Bombiela
+c3~CallePerdida
+c4~12
+c5~121212145
+c6~124541
+c7~fbr@mail.com
+p1~120000121
+p2~09/25
+p3~1245
